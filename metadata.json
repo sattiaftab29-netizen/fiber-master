@@ -1,0 +1,6 @@
+{
+  "name": "NetPulse - ISP Management & Billing System",
+  "description": "Comprehensive ISP customer management, recurring billing, A4 invoice generator, and WhatsApp payment reminder dispatch system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
